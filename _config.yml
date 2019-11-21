@@ -4,7 +4,6 @@ theme: jekyll-theme-slate
 title: Society of Gaming culture
 email: info@sogc.nu
 description: > # this means to ignore newlines until "baseurl:"
-some awsome description
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
