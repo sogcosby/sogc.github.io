@@ -1,4 +1,4 @@
-# Society of Gaming culture
+# SoGC & OSCON
 Om du är ute efter att bli medlem i föreningen [Klicka här](https://ebas.sverok.se/signups/index/5611) medlemskap är gratis upp *till och med* det året man fyller 25. För de som är äldre så swishar man medlemsavgiften till 123 - 189 53 17 (150 kr)
 
 Om du önskar information om OSCON (Osby Spelkonvent) besök [www.oscon.nu](http://oscon.nu).
@@ -16,6 +16,22 @@ Därför vill vi:
 * Att alla ungdomar i Osby ska få möjlighet att få gå på ett spelevenemang fritt från alkohol, tobak och droger.
 * Att alla ungdomar ska få möjligehten att **utan avgifter** besöka ett lokalt spelevenemang.
 
+## Vad föreningen behöver
+Det är inte lätt att driva en förening i dagens samhälle, det ideella engagemanget bland invånare i Sverige blir lägre och lägre för varje år. Samtidigt blir det viktigare och viktigare att vi bibehåller det.
+
+Vi har därför kommit fram till att för att vi på sikt ska kunna bibehålla den viktiga funktion som föreningen har så behövs det lokaler där vi kan arrangera OSCON där vi inte behöver neka ungdomar deltagare.
+
+Pulsen har alltid varit superbra, och vi kommer alltid jobba för att ha ett sammarbete med fritidsgården både kring konventet och spelhobby i allmänhet.
+
+För att en lokal ska funka för att ha OSCON behövs:
+* Lokal att arrangera ett lan för 80-120 personer.
+* Lokal för kiosk och servering.
+* Lokal för figurspel.
+* Lokal för bräd och kortspel.
+* Lokal/Lokaler för rollspel.
+* Lokal för funktionärsåterhämtning.
+* Lokaler för att sova i.
+
 ## Medlemsstatistik
 ![Medlemstatistik åren 2007-2019](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQyCLhru_Zuf7rjVxeE2yKytvCaxn4tUIGxrBZEyMjibMrlHH8_vPyyYxbPUrGN2hPGuMNc_Un-xibY/pubchart?oid=1678863216&format=image)
 
@@ -26,8 +42,12 @@ Det är även först under 2012 som vi ser att vi börjar få medlemmar som öve
 ## Ekonomi
 föreningens ekonomi är direkt i relation till antalet medlemmar vi har, detta då vi genom att vi är anslutna till Sverok (som i sin tur är en ungdomsorganisation som ligger under MUCF) så får vid varje år del av att ungdomsbidrag för alla medlemmar som är inom spannet för vad som just nu räknas som ungdom (2019:6-25 år)
 
+Föreningen får även in en del medlemsavgifter från medlemmar som har passaerat 25 år, dessa betalar in en årlig avgift som de senaste åren varit 150 kronor.
+
+De utgifter som föreningen har är uteslutande kopplade till OSCON i form av prissupport för turneringar och tävlingar, buffert ifall kioskförsäljningen är lägre än vad vi handlat för samt och nog det viktigaste möjlgiheten att köpa ny teknik och annat som behövs för att OSCON ska kunna bli av.
+
 ## Förtroendevalda
-Sedan föreningen grundades har tanken alltid varit att överrådet (innan 2019: styrelsen) ska bestå av ungdomar. Att det är ungdomar som gör saker för ungdomar. Dock har det med åren vi har blivit äldre blivit svårare att rekrytera yngre. Just nu är vår yngsta rådsmedlem 15 år.
+Sedan föreningen grundades har tanken alltid varit att överrådet (innan 2019: styrelsen) ska bestå av ungdomar. Att det är ungdomar som gör saker för ungdomar. Dock har det med åren vi har blivit äldre blivit svårare att rekrytera yngre. Just nu är föreningens yngsta rådsmedlem 15 år.
 
 **Överrådet**
 * Gillesmästare (Ordförande) - Oliver Sundström (oliver@sogc.nu)
