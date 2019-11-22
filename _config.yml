@@ -1,7 +1,7 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-tactile
 
 # Site settings
 title: Society of Gaming culture
 email: info@sogc.nu
-description: > # this means to ignore newlines until "baseurl:"
+description: Din lokala spelförening i Osby. # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site
