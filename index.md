@@ -6,7 +6,7 @@ Om du önskar information om OSCON (Osby Spelkonvent) besök [www.oscon.nu](http
 ## Grundläggande information & föreningens uppdrag
 Society of Gaming Culture är en ideell allmännyttig förening med sitt säte i Osby Kommun. Föreningen har funnits sedan 2007 och blev medlem i riksförbundet Sverok samma år. Sedan ett par år innan föreningen bildades så har vi arrangerat ett LAN, och konvent i Osby som under de flesta åren varit på Fritidsgården Pulsen.
 
-Föreningen har i sin stadga en syftesparagraf som lyder som följande "Föreningens syfte är främst att främja spelande av olika former av spel." Detta är och kommer alltid förbli det primära syftet som föreningen verkar efter.
+Föreningen har i sin stadga en syftesparagraf som lyder som följande **"Föreningens syfte är främst att främja spelande av olika former av spel."** Detta är och kommer alltid förbli det primära syftet som föreningen verkar efter.
 
 Föreningen har valt att komma till insikten, att spel är en väldigt effektiv metod för integration och samverkan över sociala gränser som normalt inte korsas. Därför ser vi vårt årliga evenemang OSCON som en viktig del av Osbys ungdomsverksamhet.
 
