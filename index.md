@@ -40,6 +40,7 @@ Som bilden ovan visar så är medlemsantalet i föreningen väldigt varierande f
 Det är även först under 2012 som vi ser att vi börjar få medlemmar som överstiger den bidragsgivande åldern. Dock som vi kan se börjar det bli ett större glapp. Under 2019 så hade glappet varit betydlgit större om inte många äldre medlemmar aktivt valt att inte gå med i föreningen just för att undvika att vi hamnar i en situation där föreningen inte kan få in pengar till att driva vidare sin verksamhet.
 
 ## Ekonomi
+![Föreningens Ekonomi åren 2007-2019](https://docs.google.com/spreadsheets/d/e/2PACX-1vQyCLhru_Zuf7rjVxeE2yKytvCaxn4tUIGxrBZEyMjibMrlHH8_vPyyYxbPUrGN2hPGuMNc_Un-xibY/pubchart?oid=207046541&format=image)
 föreningens ekonomi är direkt i relation till antalet medlemmar vi har, detta då vi genom att vi är anslutna till Sverok (som i sin tur är en ungdomsorganisation som ligger under MUCF) så får vid varje år del av att ungdomsbidrag för alla medlemmar som är inom spannet för vad som just nu räknas som ungdom (2019:6-25 år)
 
 Föreningen får även in en del medlemsavgifter från medlemmar som har passaerat 25 år, dessa betalar in en årlig avgift som de senaste åren varit 150 kronor.
