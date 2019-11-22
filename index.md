@@ -6,6 +6,6 @@ Society of Gaming Culture är en ideell allmännyttig förening med sitt säte i
 
 
 ## Medlemsstatistik
-
+!(https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQyCLhru_Zuf7rjVxeE2yKytvCaxn4tUIGxrBZEyMjibMrlHH8_vPyyYxbPUrGN2hPGuMNc_Un-xibY/pubchart?oid=1678863216&format=image)
 
 ## Överrådet (Styrelse)
