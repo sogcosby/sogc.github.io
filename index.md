@@ -63,5 +63,5 @@ Sedan föreningen grundades har tanken alltid varit att överrådet (innan 2019:
 * Revisor - Oskar Edbro
 * Revisorssuppleant - Robin Landin
 
-**Valbereare**
+**Valberedare**
 * Björn Nelson
