@@ -14,6 +14,7 @@ Därför vill vi:
 * Att alla invånare i Osby, unga som gamla, ska ha tillgång till ett lokalt spelevenemang.
 * Att alla, oavsett funktionsvariation ska ha möjlighet att på lika vilkor delta i ett lokalt spelevenemang.
 * Att alla ungdomar i Osby ska få möjlighet att få gå på ett spelevenemang fritt från alkohol, tobak och droger.
+* Att alla ungdomar i Osby ska få möjlighet att under inledningen av höstlovet få möjlighet att spendera en helg med vänner i en fördomsfri miljö under uppsikt av vuxna med samma intressen.
 * Att alla ungdomar ska få möjligehten att **utan avgifter** besöka ett lokalt spelevenemang.
 
 ## Vad föreningen behöver
