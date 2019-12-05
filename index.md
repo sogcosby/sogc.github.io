@@ -19,7 +19,7 @@ Därför vill vi:
 * Att alla ungdomar i Osby ska få möjlighet att under inledningen av höstlovet få möjlighet att spendera en helg med vänner i en fördomsfri miljö under uppsikt av vuxna med samma intressen.
 * Att alla ungdomar ska få möjligehten att **utan avgifter** besöka ett lokalt spelevenemang.
 
-## Likabehandlingsplan, Alkohol och Drog policy och Code of Conduct.
+## Likabehandlingsplan, Alkohol- & Drogpolicy samt Code of Conduct.
 SoGC har nolltolerans mot diskriminering. Vi arbetar för trygg verksamhet där alla ska känna sig välkomna. Ingen ska behöva vara utsatt för kränkningar och övergrepp. Det finns alltid ansvariga på plats att kunna ta kontakt med ifall man känner sig utsatt eller vet om någon annan som är utsatt. Alla deltagare har rätt att behandlas med respekt, ödmjukhet, omtanke och med hänsyn till var och ens rättmätiga krav på integritet, oavsett olikheter.
 
 Föreningen har valt att inte ha en egen alkohol och drog-policy utan vi implenterar den som sverok har. [Läs mer här](https://infobank.sverok.se/styrdokument/sveroks-kontrakt-for-alkohol-tobak-mm-2012/?fbclid=IwAR0KphgXFuU4Nb8TydiEIy27gRTDfsulBmjeyWYmFU79QGITGKNGFhF-a6M)
