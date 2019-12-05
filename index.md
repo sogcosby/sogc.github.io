@@ -3,6 +3,8 @@ Om du är ute efter att bli medlem i föreningen [Klicka här](https://ebas.sver
 
 Om du önskar information om OSCON (Osby Spelkonvent) besök [www.oscon.nu](http://oscon.nu).
 
+Föreningens arrangemang OSCON fick under 2019 utmärkelsen årets arrangemang från Sverok. En utmärkelse som ger oss ett bevis på det hårda arbete för ungdomar som vi gör varje år. Mer om detta kan man läsa på sveroks hemsida [Läs här](https://sverok.se/de-ar-aret-sverokare/)
+
 ## Grundläggande information & föreningens uppdrag
 Society of Gaming Culture är en ideell allmännyttig förening med sitt säte i Osby Kommun. Föreningen har funnits sedan 2007 och blev medlem i riksförbundet Sverok samma år. Sedan ett par år innan föreningen bildades så har vi arrangerat ett LAN, och konvent i Osby som under de flesta åren varit på Fritidsgården Pulsen.
 
