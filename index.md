@@ -24,7 +24,7 @@ SoGC har nolltolerans mot diskriminering. Vi arbetar för trygg verksamhet där 
 
 Föreningen har valt att inte ha en egen alkohol och drog-policy utan vi implenterar den som sverok har. [Läs mer här](https://infobank.sverok.se/styrdokument/sveroks-kontrakt-for-alkohol-tobak-mm-2012/?fbclid=IwAR0KphgXFuU4Nb8TydiEIy27gRTDfsulBmjeyWYmFU79QGITGKNGFhF-a6M)
 
-Föreningen implenterar fullständigt Svensk E-Sport code of conduct för alla e-sport evenemang. [Läs Svensk E-Sport Code of Conduct Här](http://www.respectallcompete.se/koden/)
+Föreningen implenterar fullständigt Svensk E-Sport code of conduct för alla e-sport evenemang. [Läs Svensk E-Sport Code of Conduct Här](http://www.respectallcompete.se/wp-content/uploads/2015/11/Svensk-e-sports-Code-of-Conduct.pdf)
 
 ## Vad föreningen behöver
 Det är inte lätt att driva en förening i dagens samhälle, det ideella engagemanget bland invånare i Sverige blir lägre och lägre för varje år. Samtidigt blir det viktigare och viktigare att vi bibehåller det.
