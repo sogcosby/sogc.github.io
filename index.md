@@ -55,9 +55,9 @@ Sedan föreningen grundades har tanken alltid varit att överrådet (innan 2019:
 * Gillesmästare (Ordförande) - Oliver Sundström (oliver@sogc.nu)
 * Penningmästare (Kassör) - Joacim Johansson
 * Rådsmedlem med ansvar för lokal & logistik - Viktor Wästergård
-* Rådsmedlem med ansvar för evenemang (traditionella spel)- Andreas Nelson
-* Rådsmedlem med ansvar för evenemang (digitala spel)- Alfred Cato
-* Rådsmedlem med ansvar för evenemang (digitala spel)- Ivan Hunhammer
+* Rådsmedlem med ansvar för evenemang (traditionella spel) - Andreas Nelson
+* Rådsmedlem med ansvar för evenemang (digitala spel) - Alfred Cato
+* Rådsmedlem med ansvar för evenemang (digitala spel) - Ivan Hunhammer
 
 **Kontroll och revision**
 * Revisor - Oskar Edbro
