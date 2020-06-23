@@ -3,6 +3,8 @@ Om du är ute efter att bli medlem i föreningen [Klicka här](https://ebas.sver
 
 Om du önskar information om OSCON (Osby Spelkonvent) besök [www.oscon.nu](http://oscon.nu).
 
+Föreningens arrangemang OSCON fick under 2019 utmärkelsen årets arrangemang från Sverok. En utmärkelse som ger oss ett bevis på det hårda arbete för ungdomar som vi gör varje år. Mer om detta kan man läsa på sveroks hemsida [Läs här](https://sverok.se/de-ar-aret-sverokare/)
+
 ## Grundläggande information & föreningens uppdrag
 Society of Gaming Culture är en ideell allmännyttig förening med sitt säte i Osby Kommun. Föreningen har funnits sedan 2007 och blev medlem i riksförbundet Sverok samma år. Sedan ett par år innan föreningen bildades så har vi arrangerat ett LAN, och konvent i Osby som under de flesta åren varit på Fritidsgården Pulsen.
 
@@ -14,7 +16,15 @@ Därför vill vi:
 * Att alla invånare i Osby, unga som gamla, ska ha tillgång till ett lokalt spelevenemang.
 * Att alla, oavsett funktionsvariation ska ha möjlighet att på lika vilkor delta i ett lokalt spelevenemang.
 * Att alla ungdomar i Osby ska få möjlighet att få gå på ett spelevenemang fritt från alkohol, tobak och droger.
+* Att alla ungdomar i Osby ska få möjlighet att under inledningen av höstlovet få möjlighet att spendera en helg med vänner i en fördomsfri miljö under uppsikt av vuxna med samma intressen.
 * Att alla ungdomar ska få möjligehten att **utan avgifter** besöka ett lokalt spelevenemang.
+
+## Likabehandlingsplan, Alkohol- & Drogpolicy samt Code of Conduct.
+SoGC har nolltolerans mot diskriminering. Vi arbetar för trygg verksamhet där alla ska känna sig välkomna. Ingen ska behöva vara utsatt för kränkningar och övergrepp. Det finns alltid ansvariga på plats att kunna ta kontakt med ifall man känner sig utsatt eller vet om någon annan som är utsatt. Alla deltagare har rätt att behandlas med respekt, ödmjukhet, omtanke och med hänsyn till var och ens rättmätiga krav på integritet, oavsett olikheter.
+
+Föreningen har valt att inte ha en egen alkohol och drog-policy utan vi implenterar den som sverok har. [Läs mer här](https://infobank.sverok.se/styrdokument/sveroks-kontrakt-for-alkohol-tobak-mm-2012/?fbclid=IwAR0KphgXFuU4Nb8TydiEIy27gRTDfsulBmjeyWYmFU79QGITGKNGFhF-a6M)
+
+Föreningen implenterar fullständigt Svensk E-Sport code of conduct för alla e-sport evenemang. [Läs Svensk E-Sport Code of Conduct Här](http://www.respectallcompete.se/wp-content/uploads/2015/11/Svensk-e-sports-Code-of-Conduct.pdf)
 
 ## Vad föreningen behöver
 Det är inte lätt att driva en förening i dagens samhälle, det ideella engagemanget bland invånare i Sverige blir lägre och lägre för varje år. Samtidigt blir det viktigare och viktigare att vi bibehåller det.
