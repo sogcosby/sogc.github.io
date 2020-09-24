@@ -11,3 +11,6 @@ Eftersom det som ovan sagt är gratis, och för att vi får en väldigt väldigt
 
 ## Jag vill hjälpa till med sidan.
 Om du är intresserad av att hjälpa till med föreningens hemsida, skaffa dig ett konto här på GitHub och prata med Oliver eller Oskar så kan de hjälpa dig att komma igång. Förslagsvis använder du editorn "Atom" som har direktintegration med GitHub.
+
+## Hur?
+Markdown: https://www.markdownguide.org/basic-syntax/
